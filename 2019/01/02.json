@@ -1,0 +1,13 @@
+{
+    "date": "2019-01-02",
+    "dow": "Wed",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": true,
+        "strech": false,
+        "qiita": false,
+        "hatena": false
+    }
+}
