@@ -25,12 +25,13 @@ class Summary:
             date = int(os.path.splitext("".join(record.split("/")[1:]))[0])
             if not (begin < date < end):
                 continue
-            dct = json.loads(record)
+            f = open(record, "r")
+            dct = json.load(f)
             status = dct["status"]
             for task in self._status.keys():
                 if task not in status:
                     continue
-                if status[tast]:
+                if status[task]:
                     self._status[task] += 1
 
     def output(self):
