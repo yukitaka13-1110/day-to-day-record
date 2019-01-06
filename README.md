@@ -1,9 +1,9 @@
 # day-to-day-record  
-## Summary  (2019-01-04 13:13:36.047111)  
-basket : 0  
+## Summary  (2019-01-06 23:48:29.168960)  
+basket : 1  
 core-training : 0  
-hatena : 0  
-jump-rope : 1  
+hatena : 1  
+jump-rope : 2  
 qiita : 0  
-strech : 1  
+strech : 2  
 work-out : 0  
