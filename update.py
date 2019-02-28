@@ -8,7 +8,7 @@ class Summary:
 
     def __init__(self):
         self._status = {
-            "basket":0,
+            "basket": 0,
             "work-out": 0,
             "core-training": 0,
             "jump-rope": 0,
