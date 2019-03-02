@@ -1,0 +1,21 @@
+{
+    "date": "2019-03-01",
+    "dow": "Fri",
+    "status": {
+        "basket": true,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": true,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 7,
+        "fulfillment": 7,
+        "total": 7
+    },
+    "comment": {
+        "summary": "出社が遅かった。相変わらずバッシュが靴擦れする"
+    }
+}
