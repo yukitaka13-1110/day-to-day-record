@@ -1,0 +1,21 @@
+{
+    "date": "2019-03-02",
+    "dow": "Sat",
+    "status": {
+        "basket": true,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": true,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 7,
+        "fulfillment": 9,
+        "total": 8
+    },
+    "comment": {
+        "summary": "起きるのが遅かった。3pシュートがめっちゃ入った。相変わらずバッシュは靴擦れする。"
+    }
+}
