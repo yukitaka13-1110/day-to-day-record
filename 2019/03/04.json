@@ -1,0 +1,21 @@
+{
+    "date": "2019-03-04",
+    "dow": "Mon",
+    "status": {
+        "basket": false,
+        "work-out": true,
+        "core-training": true,
+        "jump-rope": false,
+        "strech": true,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 9,
+        "total": 8.5
+    },
+    "comment": {
+        "summary": "効果的な筋トレが出来たと思う。バスケットで全力で走ってないから俊敏性が落ちている気がする。"
+    }
+}
