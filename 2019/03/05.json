@@ -1,0 +1,21 @@
+{
+    "date": "2019-03-05",
+    "dow": "Tue",
+    "status": {
+        "basket": true,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": true,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 8,
+        "total": 8
+    },
+    "comment": {
+        "summary": "昨日から風邪を引いている。体調管理の為にも生活習慣の改善をしなければならない。"
+    }
+}
