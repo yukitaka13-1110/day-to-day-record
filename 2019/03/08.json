@@ -1,0 +1,21 @@
+{
+    "date": "2019-03-08",
+    "dow": "Fri",
+    "status": {
+        "basket": true,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": true,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 7,
+        "total": 7.5
+    },
+    "comment": {
+        "summary": "月曜から風邪を引いている。3Pシュートの時焦って撃っている気がする。"
+    }
+}
