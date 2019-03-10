@@ -1,0 +1,21 @@
+{
+    "date": "2019-03-09",
+    "dow": "Sat",
+    "status": {
+        "basket": true,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": true,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 9,
+        "fulfillment": 9,
+        "total": 9
+    },
+    "comment": {
+        "summary": "風邪はほとんど治った。体育館の抽選も取れたしバスケも久々にクタクタになるまでやったしかなり充実していた。"
+    }
+}
