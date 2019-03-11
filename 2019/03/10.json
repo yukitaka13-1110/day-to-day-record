@@ -1,0 +1,21 @@
+{
+    "date": "2019-03-10",
+    "dow": "Sun",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": true,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 8,
+        "total": 8
+    },
+    "comment": {
+        "summary": "もっと時間を有効活用出来たような気がする。全然悪くはなかったけど。"
+    }
+}
