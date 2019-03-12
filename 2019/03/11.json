@@ -1,0 +1,21 @@
+{
+    "date": "2019-03-11",
+    "dow": "Mon",
+    "status": {
+        "basket": false,
+        "work-out": true,
+        "core-training": true,
+        "jump-rope": false,
+        "strech": true,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 8,
+        "total": 8
+    },
+    "comment": {
+        "summary": "工場での作業が長すぎて疲れた。他はよかった気がする。明日のバスケが怖い。人違いだといいのだけれど。"
+    }
+}
