@@ -1,0 +1,21 @@
+{
+    "date": "2019-03-13",
+    "dow": "Wed",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": true,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 7,
+        "total": 7.5
+    },
+    "comment": {
+        "summary": "組み合わせ会議がストレスすぎた。毎回集まらなくてもいいよにアルゴリズム考えないといけないと思った。"
+    }
+}
