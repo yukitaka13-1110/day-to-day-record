@@ -1,0 +1,21 @@
+{
+    "date": "2019-03-14",
+    "dow": "Thu",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": false,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 7,
+        "fulfillment": 5,
+        "total": 6
+    },
+    "comment": {
+        "summary": "最近はとても無駄なことが多いなと感じる。一回立ち止まって色々見直したい。"
+    }
+}
