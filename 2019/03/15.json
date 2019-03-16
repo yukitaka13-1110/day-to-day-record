@@ -1,0 +1,21 @@
+{
+    "date": "2019-03-15",
+    "dow": "Fri",
+    "status": {
+        "basket": true,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": true,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 6,
+        "total": 7
+    },
+    "comment": {
+        "summary": "言った言わない論争に嫌気がさした。無難にこなそうと思った。 パスもシュートも調子が良かった。"
+    }
+}
