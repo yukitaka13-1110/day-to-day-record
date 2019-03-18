@@ -1,0 +1,21 @@
+{
+    "date": "2019-03-17",
+    "dow": "Sun",
+    "status": {
+        "basket": true,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": false,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 9,
+        "fulfillment": 9,
+        "total": 9
+    },
+    "comment": {
+        "summary": "久々に1日中バスケをした。強い人ともやれたし自分の改善すべきところも分かったし自信もついた。"
+    }
+}
