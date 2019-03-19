@@ -6,7 +6,7 @@
         "work-out": false,
         "core-training": false,
         "jump-rope": false,
-        "strech": false,
+        "strech": true,
         "qiita": false,
         "hatena": false
     },
