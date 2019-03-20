@@ -1,0 +1,21 @@
+{
+    "date": "2019-03-19",
+    "dow": "Tue",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": true,
+        "qiita": false,
+        "hatena": true
+    },
+    "assessment": {
+        "time-management": 7,
+        "fulfillment": 8,
+        "total": 7.5
+    },
+    "comment": {
+        "summary": "久々にはてなブログ書いた。朝起きるのが遅い。いい加減なんとかしたい。部屋の片付けもちゃんとしないといけない。"
+    }
+}
