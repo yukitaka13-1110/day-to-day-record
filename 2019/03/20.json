@@ -1,0 +1,21 @@
+{
+    "date": "2019-03-20",
+    "dow": "Wed",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": false,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 7,
+        "fulfillment": 8,
+        "total": 7.5
+    },
+    "comment": {
+        "summary": "早起きと片付けを改革していく。プログラミングに時間を割いていても有効に使えていなかったらダメだなと気付いた。それ以外の時間を増やしてメリハリをつけて時間を有効に使うようにする。"
+    }
+}
