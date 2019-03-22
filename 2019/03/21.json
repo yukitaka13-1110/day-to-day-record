@@ -1,0 +1,21 @@
+{
+    "date": "2019-03-21",
+    "dow": "Thu",
+    "status": {
+        "basket": true,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": true,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 9,
+        "fulfillment": 9,
+        "total": 9
+    },
+    "comment": {
+        "summary": "前日と同じく早起き片付けを取り入れて習慣化する。そのためにやるべきことを考える。はっしぃさんとの飲みが楽しかった。"
+    }
+}
