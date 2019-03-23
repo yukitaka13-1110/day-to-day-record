@@ -1,0 +1,21 @@
+{
+    "date": "2019-03-22",
+    "dow": "Fri",
+    "status": {
+        "basket": true,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": true,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 8,
+        "total": 8
+    },
+    "comment": {
+        "summary": "早起きから片付けができた。肉体的な疲労があるからストレッチをしっかりやらなければならない。"
+    }
+}
