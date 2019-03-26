@@ -1,0 +1,21 @@
+{
+    "date": "2019-03-25",
+    "dow": "Mon",
+    "status": {
+        "basket": true,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": true,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 8,
+        "total": 8
+    },
+    "comment": {
+        "summary": "会社への信用が下がった。嫌なことやストレスなことは絶えないけれど、そういう時は上手く回避してその分の穴を埋めるようにすればいいと思った。"
+    }
+}
