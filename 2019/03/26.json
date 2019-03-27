@@ -1,0 +1,21 @@
+{
+    "date": "2019-03-26",
+    "dow": "Tue",
+    "status": {
+        "basket": true,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": true,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 7,
+        "total": 7.5
+    },
+    "comment": {
+        "summary": "やはり集中力なのだろうか？シュートフォームが不安定なのを何とかしたい。"
+    }
+}
