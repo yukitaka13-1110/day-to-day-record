@@ -1,0 +1,21 @@
+{
+    "date": "2019-03-29",
+    "dow": "Fri",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": true,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 7,
+        "total": 7.5
+    },
+    "comment": {
+        "summary": "立ち止まって見直す時間が欲しい。"
+    }
+}
