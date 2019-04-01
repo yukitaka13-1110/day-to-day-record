@@ -1,0 +1,21 @@
+{
+    "date": "2019-03-31",
+    "dow": "Sun",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": true,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 7,
+        "fulfillment": 8,
+        "total": 7.5
+    },
+    "comment": {
+        "summary": "明日から新年度が始まる。小さなことから少しずつでいい。着実に変わっていこう。"
+    }
+}
