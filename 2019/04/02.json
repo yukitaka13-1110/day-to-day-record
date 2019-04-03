@@ -1,0 +1,21 @@
+{
+    "date": "2019-04-02",
+    "dow": "Tue",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": true,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 8,
+        "total": 8
+    },
+    "comment": {
+        "summary": "1年ぶりの健康診断だったけど特に問題はないようで良かった。ストレッチの仕方を工夫しないといけない。"
+    }
+}
