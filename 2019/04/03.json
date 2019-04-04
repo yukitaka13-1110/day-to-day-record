@@ -1,0 +1,21 @@
+{
+    "date": "2019-04-03",
+    "dow": "Wed",
+    "status": {
+        "basket": true,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": true,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 9,
+        "fulfillment": 8,
+        "total": 8.5
+    },
+    "comment": {
+        "summary": "少しは早く1日を開始できたのは良かった。筋肉の疲労がやばいので何とかしないといけない。"
+    }
+}
