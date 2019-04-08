@@ -1,0 +1,21 @@
+{
+    "date": "2019-04-07",
+    "dow": "Sun",
+    "status": {
+        "basket": true,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": true,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 8,
+        "total": 8
+    },
+    "comment": {
+        "summary": "怪我が多すぎる。1on1時のシュートセレクションをもっと考える。"
+    }
+}
