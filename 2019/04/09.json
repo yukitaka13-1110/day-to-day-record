@@ -1,0 +1,21 @@
+{
+    "date": "2019-04-09",
+    "dow": "Tue",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": false,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 7,
+        "total": 7.5
+    },
+    "comment": {
+        "summary": "早く部屋を片付けて料理しなきゃいけない。"
+    }
+}
