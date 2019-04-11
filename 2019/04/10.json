@@ -1,0 +1,21 @@
+{
+    "date": "2019-04-10",
+    "dow": "Wed",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": false,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 7,
+        "fulfillment": 7,
+        "total": 7
+    },
+    "comment": {
+        "summary": "新入社員の人は長く続かないような気がする。"
+    }
+}
