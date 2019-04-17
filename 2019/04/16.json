@@ -1,0 +1,21 @@
+{
+    "date": "2019-04-16",
+    "dow": "Tue",
+    "status": {
+        "basket": true,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": true,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 8,
+        "total": 8
+    },
+    "comment": {
+        "summary": "起きるのは遅かったけど作業自体は捗った。早く弁当を作る習慣をつけたい。"
+    }
+}
