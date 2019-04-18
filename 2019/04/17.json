@@ -1,0 +1,21 @@
+{
+    "date": "2019-04-17",
+    "dow": "Wed",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": false,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 8,
+        "total": 8
+    },
+    "comment": {
+        "summary": "前田社長の「メモの魔力」購入した。良いと思ったものは取り入れていきたい。"
+    }
+}
