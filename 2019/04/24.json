@@ -1,0 +1,21 @@
+{
+    "date": "2019-04-24",
+    "dow": "Wed",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": false,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 7,
+        "fulfillment": 8,
+        "total": 7.5
+    },
+    "comment": {
+        "summary": "パン作りは本当に難しい。家でダラダラしすぎている。"
+    }
+}
