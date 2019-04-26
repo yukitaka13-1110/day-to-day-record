@@ -1,0 +1,21 @@
+{
+    "date": "2019-04-25",
+    "dow": "Thu",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": true,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 7,
+        "fulfillment": 8,
+        "total": 7.5
+    },
+    "comment": {
+        "summary": "やりたい事がやれていない。考える時間が必要だ。"
+    }
+}
