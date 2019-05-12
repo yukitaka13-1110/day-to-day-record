@@ -1,0 +1,21 @@
+{
+    "date": "2019-05-11",
+    "dow": "Sat",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": false,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 8,
+        "total": 8
+    },
+    "comment": {
+        "summary": "うっちーの結婚式だった。久々にみんな集まれて楽しかった。何故かバスケのモチベーションが上がるという。頑張らねば。"
+    }
+}
