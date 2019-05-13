@@ -1,0 +1,21 @@
+{
+    "date": "2019-05-12",
+    "dow": "Sun",
+    "status": {
+        "basket": true,
+        "work-out": false,
+        "core-training": true,
+        "jump-rope": false,
+        "strech": true,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 8,
+        "total": 8
+    },
+    "comment": {
+        "summary": "1週間ぶりのバスケだった。筋肉の衰えを感じる。ワークアウトも解禁する。"
+    }
+}
