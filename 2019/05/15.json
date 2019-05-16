@@ -1,0 +1,21 @@
+{
+    "date": "2019-05-15",
+    "dow": "Wed",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": false,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 8,
+        "total": 8
+    },
+    "comment": {
+        "summary": "TypeScriptの導入を急がなければならない。みんな頑張っている。"
+    }
+}
