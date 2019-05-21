@@ -1,6 +1,6 @@
 {
-    "date": "2019-05-19",
-    "dow": "Sun",
+    "date": "2019-05-20",
+    "dow": "Mon",
     "status": {
         "basket": true,
         "work-out": false,
@@ -12,10 +12,10 @@
     },
     "assessment": {
         "time-management": 8,
-        "fulfillment": 7,
-        "total": 7.5
+        "fulfillment": 9,
+        "total": 8.5
     },
     "comment": {
-        "summary": "まさかバスケ寝坊するとは。。。"
+        "summary": "バスケに行くの億劫だったけど行って良かった。何故か耳が痛い。"
     }
 }
