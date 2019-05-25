@@ -1,0 +1,21 @@
+{
+    "date": "2019-05-24",
+    "dow": "Fri",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": false,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 8,
+        "total": 8
+    },
+    "comment": {
+        "summary": "JBUGに参加してきた。貴重な気付きがあった。"
+    }
+}
