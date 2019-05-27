@@ -1,0 +1,21 @@
+{
+    "date": "2019-05-26",
+    "dow": "Sun",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": false,
+        "qiita": false,
+        "hatena": true
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 8,
+        "total": 8
+    },
+    "comment": {
+        "summary": "FB関連面倒臭いけどもう少しの辛抱だし頑張ろう。そしてバスケの頻度を増やそう。というよりもっと無駄な時間を無くす努力をしないといけない。"
+    }
+}
