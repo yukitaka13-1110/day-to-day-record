@@ -1,0 +1,21 @@
+{
+    "date": "2019-05-27",
+    "dow": "Mon",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": true,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 8,
+        "total": 8
+    },
+    "comment": {
+        "summary": "CloudFormationが予想以上に難しい。1つずつ片付けていこう。部屋の片付けと無駄時間の削減もする。"
+    }
+}
