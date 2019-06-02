@@ -1,0 +1,21 @@
+{
+    "date": "2019-06-01",
+    "dow": "Sat",
+    "status": {
+        "basket": true,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": true,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 8,
+        "total": 8
+    },
+    "comment": {
+        "summary": "ナベちゃんの結婚式は笑いが多かった。今日1日で体の疲労が半端ない。"
+    }
+}
