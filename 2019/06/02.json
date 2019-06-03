@@ -1,0 +1,21 @@
+{
+    "date": "2019-06-02",
+    "dow": "Sun",
+    "status": {
+        "basket": true,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": true,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 8,
+        "total": 8
+    },
+    "comment": {
+        "summary": "市民リーグダブルヘッダーだった。疲労の蓄積で１試合目で攣りかけたけどなんとか２試合持った。"
+    }
+}
