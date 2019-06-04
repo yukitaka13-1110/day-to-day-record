@@ -1,0 +1,21 @@
+{
+    "date": "2019-06-03",
+    "dow": "Mon",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": false,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 8,
+        "total": 8
+    },
+    "comment": {
+        "summary": "全身筋肉痛。耳も痛い。早めに病院に行かないといけない。"
+    }
+}
