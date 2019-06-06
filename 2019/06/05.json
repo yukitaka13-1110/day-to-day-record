@@ -1,0 +1,21 @@
+{
+    "date": "2019-06-05",
+    "dow": "Wed",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": false,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 8,
+        "total": 8
+    },
+    "comment": {
+        "summary": "AWS CLIの中の人対応早すぎて驚いた。そろそろ登壇資料作らなければならない。"
+    }
+}
