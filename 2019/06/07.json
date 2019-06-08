@@ -1,0 +1,21 @@
+{
+    "date": "2019-06-07",
+    "dow": "Fri",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": false,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 8,
+        "total": 8
+    },
+    "comment": {
+        "summary": "もっと心の余裕を持って生きたい。"
+    }
+}
