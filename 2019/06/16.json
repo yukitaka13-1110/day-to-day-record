@@ -1,0 +1,21 @@
+{
+    "date": "2019-06-16",
+    "dow": "Sun",
+    "status": {
+        "basket": true,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": false,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 8,
+        "total": 8
+    },
+    "comment": {
+        "summary": "市民以来の試合だったけど体力の無さを痛感した。トレーニングも再開しないといけない。"
+    }
+}
