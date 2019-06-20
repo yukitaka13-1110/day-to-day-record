@@ -1,0 +1,21 @@
+{
+    "date": "2019-06-19",
+    "dow": "Wed",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": false,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 8,
+        "total": 8
+    },
+    "comment": {
+        "summary": "Vue女子かと思ったらただの静的サイトをvue-cli使って作ってるだけだった。自分のやるべき事をもう一度整理しなければならない。"
+    }
+}
