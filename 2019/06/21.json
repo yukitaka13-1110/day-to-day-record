@@ -1,0 +1,21 @@
+{
+    "date": "2019-06-21",
+    "dow": "Fri",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": false,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 9,
+        "fulfillment": 9,
+        "total": 8
+    },
+    "comment": {
+        "summary": "yahoo社員さん2人が大学院時代の准教授知ってて世界は狭いなと思った。かなり充実した時間を過ごせた。"
+    }
+}
