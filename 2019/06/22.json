@@ -1,0 +1,21 @@
+{
+    "date": "2019-06-22",
+    "dow": "Sat",
+    "status": {
+        "basket": true,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": false,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 9,
+        "total": 8.5
+    },
+    "comment": {
+        "summary": "脳震盪っぽい感じになったけど大丈夫だろうか。またなんか面倒臭い感じになりそうだから注意しなければんらない。"
+    }
+}
