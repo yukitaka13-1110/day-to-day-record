@@ -1,0 +1,21 @@
+{
+    "date": "2019-06-23",
+    "dow": "Sun",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": false,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 8,
+        "total": 8
+    },
+    "comment": {
+        "summary": "首が痛い。耳が痛い。耳は病院行った方が良さそう。部屋の片付けを頑張らねば。"
+    }
+}
