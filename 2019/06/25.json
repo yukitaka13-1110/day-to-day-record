@@ -1,0 +1,21 @@
+{
+    "date": "2019-06-25",
+    "dow": "Tue",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": false,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 8,
+        "total": 8
+    },
+    "comment": {
+        "summary": "vuexでかなり時間取られた。でも思わぬ収穫もあったし結果的にプラス。"
+    }
+}
