@@ -4,9 +4,9 @@
     "status": {
         "basket": false,
         "work-out": false,
-        "core-training": false,
+        "core-training": true,
         "jump-rope": false,
-        "strech": false,
+        "strech": true,
         "qiita": false,
         "hatena": false
     },
