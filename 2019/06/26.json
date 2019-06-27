@@ -1,0 +1,21 @@
+{
+    "date": "2019-06-26",
+    "dow": "Wed",
+    "status": {
+        "basket": true,
+        "work-out": false,
+        "core-training": true,
+        "jump-rope": false,
+        "strech": true,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 8,
+        "total": 8
+    },
+    "comment": {
+        "summary": "シュートはそこそこ入った。片付け頑張らねば。"
+    }
+}
