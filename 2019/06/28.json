@@ -1,0 +1,21 @@
+{
+    "date": "2019-06-28",
+    "dow": "Fri",
+    "status": {
+        "basket": true,
+        "work-out": false,
+        "core-training": true,
+        "jump-rope": false,
+        "strech": false,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 8,
+        "total": 8
+    },
+    "comment": {
+        "summary": "体は動くんだけどシュートが入らない。シチュエーションを意識したシュート練習が必要だ。"
+    }
+}
