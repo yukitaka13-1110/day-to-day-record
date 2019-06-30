@@ -1,0 +1,21 @@
+{
+    "date": "2019-06-29",
+    "dow": "Sat",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": true,
+        "jump-rope": false,
+        "strech": false,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 8,
+        "total": 8
+    },
+    "comment": {
+        "summary": "従姉妹の結婚式。友達の結婚式とはまた違うものがあるよね。"
+    }
+}
