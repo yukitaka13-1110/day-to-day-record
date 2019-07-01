@@ -1,0 +1,21 @@
+{
+    "date": "2019-06-30",
+    "dow": "Sun",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": true,
+        "jump-rope": false,
+        "strech": true,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 8,
+        "total": 8
+    },
+    "comment": {
+        "summary": "積極的に見直す時間を作るようにしなければ充実した毎日は送れない。"
+    }
+}
