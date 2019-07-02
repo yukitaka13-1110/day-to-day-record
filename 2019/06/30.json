@@ -4,7 +4,7 @@
     "status": {
         "basket": false,
         "work-out": false,
-        "core-training": true,
+        "core-training": false,
         "jump-rope": false,
         "strech": true,
         "qiita": false,

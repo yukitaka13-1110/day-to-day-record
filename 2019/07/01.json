@@ -1,6 +1,6 @@
 {
-    "date": "2019-06-27",
-    "dow": "Thu",
+    "date": "2019-07-01",
+    "dow": "Mon",
     "status": {
         "basket": false,
         "work-out": false,
@@ -16,6 +16,6 @@
         "total": 8
     },
     "comment": {
-        "summary": "ちょっとずつ片付け進んでいるがまだまだ。明日完全に終わらせないといけない。"
+        "summary": "回転率を上げていこう瞬間瞬間の集中力は大事。"
     }
 }
