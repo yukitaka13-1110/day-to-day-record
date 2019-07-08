@@ -1,12 +1,12 @@
 {
-    "date": "2019-07-06",
-    "dow": "Sat",
+    "date": "2019-07-07",
+    "dow": "Sun",
     "status": {
-        "basket": true,
+        "basket": false,
         "work-out": false,
         "core-training": false,
         "jump-rope": false,
-        "strech": false,
+        "strech": true,
         "qiita": false,
         "hatena": false
     },
@@ -16,6 +16,6 @@
         "total": 8
     },
     "comment": {
-        "summary": "SAPで腰を痛めた。ここは慎重に行きたい。"
+        "summary": "腰が痛すぎる。これはギックリ腰なんだろうか？"
     }
 }
