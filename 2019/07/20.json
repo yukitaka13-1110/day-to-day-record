@@ -1,0 +1,21 @@
+{
+    "date": "2019-07-20",
+    "dow": "Sat",
+    "status": {
+        "basket": true,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": true,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 9,
+        "fulfillment": 9,
+        "total": 9
+    },
+    "comment": {
+        "summary": "バスケに行くという選択をして本当に良かった。変わっていく自分を実感している。"
+    }
+}
