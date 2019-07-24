@@ -1,13 +1,13 @@
 {
-    "date": "2019-07-11",
-    "dow": "Thu",
+    "date": "2019-07-23",
+    "dow": "Tue",
     "status": {
         "basket": false,
         "work-out": false,
         "core-training": false,
         "jump-rope": false,
         "strech": false,
-        "qiita": true,
+        "qiita": false,
         "hatena": false
     },
     "assessment": {
@@ -16,6 +16,6 @@
         "total": 8
     },
     "comment": {
-        "summary": "UIデザインツール「sketch」めちゃくちゃ便利。腰はコアな部分がまだ痛い。"
+        "summary": "胃は相変らず痛い。体調優先で行く。"
     }
 }

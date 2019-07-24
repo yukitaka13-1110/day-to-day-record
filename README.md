@@ -1,9 +1,9 @@
 # day-to-day-record  
-## Summary  (2019-07-23 10:22:12.785710)  
+## Summary  (2019-07-24 13:36:46.206595)  
 basket : 92  
 core-training : 19  
 hatena : 5  
 jump-rope : 7  
-qiita : 7  
+qiita : 11  
 strech : 122  
 work-out : 8  

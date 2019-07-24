@@ -7,7 +7,7 @@
         "core-training": false,
         "jump-rope": false,
         "strech": false,
-        "qiita": false,
+        "qiita": true,
         "hatena": false
     },
     "assessment": {
