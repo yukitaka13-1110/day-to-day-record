@@ -1,0 +1,21 @@
+{
+    "date": "2019-07-27",
+    "dow": "Sat",
+    "status": {
+        "basket": true,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": true,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 9,
+        "fulfillment": 9,
+        "total": 9
+    },
+    "comment": {
+        "summary": "他人のことを傷つけるのは絶対ダメだと思う。たけるさん達との飲み楽しかった。"
+    }
+}
