@@ -1,6 +1,6 @@
 # day-to-day-record  
-## Summary  (2019-07-29 12:31:32.731507)  
-basket : 94  
+## Summary  (2019-07-29 12:34:21.219538)  
+basket : 95  
 core-training : 19  
 hatena : 5  
 jump-rope : 7  
