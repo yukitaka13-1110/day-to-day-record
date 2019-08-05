@@ -1,0 +1,21 @@
+{
+    "date": "2019-08-05",
+    "dow": "Mon",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": true,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 8,
+        "total": 8
+    },
+    "comment": {
+        "summary": "みんなのエラー片付けてたら自分の作業時間なくなった。"
+    }
+}
