@@ -1,0 +1,21 @@
+{
+    "date": "2019-08-06",
+    "dow": "Tue",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": true,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 8,
+        "total": 8
+    },
+    "comment": {
+        "summary": "アプリは大分形になってきた。入籍祝いと還暦祝い考えないと"
+    }
+}
