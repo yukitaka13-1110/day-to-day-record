@@ -1,0 +1,21 @@
+{
+    "date": "2019-08-20",
+    "dow": "Tue",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": false,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 8,
+        "total": 8
+    },
+    "comment": {
+        "summary": "午前中無駄にした。他にも色々と時間取られた。"
+    }
+}
