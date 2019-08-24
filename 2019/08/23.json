@@ -1,0 +1,21 @@
+{
+    "date": "2019-08-23",
+    "dow": "Fri",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": true,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 9,
+        "total": 8.5
+    },
+    "comment": {
+        "summary": "目標とタスクを見直す時間を作った。頑張らねば。"
+    }
+}
