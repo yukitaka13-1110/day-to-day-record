@@ -1,5 +1,5 @@
 # day-to-day-record  
-## Summary  (2019-08-27 10:52:43.286392)  
+## Summary  (2019-08-28 12:31:25.318925)  
 basket : 100  
 core-training : 19  
 hatena : 5  
