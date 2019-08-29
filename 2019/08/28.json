@@ -1,0 +1,21 @@
+{
+    "date": "2019-08-28",
+    "dow": "Wed",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": false,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 8,
+        "total": 8
+    },
+    "comment": {
+        "summary": "宣言した側から有効に活用できてない。アプリもだけど臨時的なフローを考えなければならない。"
+    }
+}
