@@ -1,0 +1,21 @@
+{
+    "date": "2019-08-29",
+    "dow": "Thu",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": true,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 8,
+        "total": 8
+    },
+    "comment": {
+        "summary": "おちんぎんがry。賢く行こう。"
+    }
+}
