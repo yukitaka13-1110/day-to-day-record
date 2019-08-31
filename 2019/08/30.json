@@ -1,0 +1,21 @@
+{
+    "date": "2019-08-30",
+    "dow": "Fri",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": true,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 8,
+        "total": 8
+    },
+    "comment": {
+        "summary": "あまり刺激は貰えなかったけど意味のあるイベントではあった。"
+    }
+}
