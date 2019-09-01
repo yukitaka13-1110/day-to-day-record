@@ -1,0 +1,21 @@
+{
+    "date": "2019-08-31",
+    "dow": "Sat",
+    "status": {
+        "basket": true,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": false,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 9,
+        "total": 8.5
+    },
+    "comment": {
+        "summary": "東京に行く理由がまた一つ増えた。頑張る。"
+    }
+}
