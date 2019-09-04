@@ -1,0 +1,21 @@
+{
+    "date": "2019-09-03",
+    "dow": "Tue",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": true,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 8,
+        "total": 8
+    },
+    "comment": {
+        "summary": "本格的に実装するなら構成から考えねば。毎日30分くらい見直す時間を作るか。"
+    }
+}
