@@ -1,0 +1,21 @@
+{
+    "date": "2019-09-09",
+    "dow": "Mon",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": true,
+        "qiita": true,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 8,
+        "total": 8
+    },
+    "comment": {
+        "summary": "まあまあ良い感じ。これをさらに上に持っていく。"
+    }
+}
