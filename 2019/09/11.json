@@ -1,0 +1,21 @@
+{
+    "date": "2019-09-11",
+    "dow": "Wed",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": false,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 8,
+        "total": 8
+    },
+    "comment": {
+        "summary": "無駄な時間が多かった。最近はいい感じだからそれを継続させる。"
+    }
+}
