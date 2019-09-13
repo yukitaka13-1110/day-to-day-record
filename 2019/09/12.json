@@ -1,0 +1,21 @@
+{
+    "date": "2019-09-12",
+    "dow": "Thu",
+    "status": {
+        "basket": false,
+        "work-out": true,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": true,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 8,
+        "total": 8
+    },
+    "comment": {
+        "summary": "朝を無駄にした。変化は感じているからこれを続ける。"
+    }
+}
