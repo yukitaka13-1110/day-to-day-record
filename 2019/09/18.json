@@ -1,0 +1,21 @@
+{
+    "date": "2019-09-18",
+    "dow": "Wed",
+    "status": {
+        "basket": false,
+        "work-out": true,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": true,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 9,
+        "total": 8.5
+    },
+    "comment": {
+        "summary": "今のままじゃ全然足りない。もっと積極的に取り柄入れる。"
+    }
+}
