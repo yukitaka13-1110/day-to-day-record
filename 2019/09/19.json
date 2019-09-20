@@ -1,0 +1,21 @@
+{
+    "date": "2019-09-19",
+    "dow": "Thu",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": false,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 8,
+        "total": 8
+    },
+    "comment": {
+        "summary": "もっと上手くできるはず。だらけてしまうことが多い。"
+    }
+}
