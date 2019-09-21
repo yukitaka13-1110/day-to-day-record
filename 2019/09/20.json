@@ -1,0 +1,21 @@
+{
+    "date": "2019-09-20",
+    "dow": "Fri",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": true,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 9,
+        "total": 8.5
+    },
+    "comment": {
+        "summary": "バスケ熱上がった！市民近いし頑張る。"
+    }
+}
