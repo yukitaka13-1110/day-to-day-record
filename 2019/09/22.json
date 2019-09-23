@@ -1,0 +1,21 @@
+{
+    "date": "2019-09-22",
+    "dow": "Sun",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": true,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 9,
+        "total": 8.5
+    },
+    "comment": {
+        "summary": "シュートが入った。体力がない。"
+    }
+}
