@@ -1,0 +1,21 @@
+{
+    "date": "2019-10-19",
+    "dow": "Sat",
+    "status": {
+        "basket": true,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": false,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 8,
+        "total": 8
+    },
+    "comment": {
+        "summary": "腰本当になんとかしないとだ。個人事業主としてやるべきことを把握する時間をとる。"
+    }
+}
