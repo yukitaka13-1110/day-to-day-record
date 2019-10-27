@@ -1,0 +1,21 @@
+{
+    "date": "2019-10-27",
+    "dow": "Sun",
+    "status": {
+        "basket": true,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": true,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 9,
+        "fulfillment": 9,
+        "total": 9
+    },
+    "comment": {
+        "summary": "足にきてる中よく動いたと思う。良いところ悪いところ整理して前に進む。"
+    }
+}
