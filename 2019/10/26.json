@@ -1,12 +1,12 @@
 {
-    "date": "2019-10-25",
-    "dow": "Fri",
+    "date": "2019-10-26",
+    "dow": "Sat",
     "status": {
-        "basket": false,
+        "basket": true,
         "work-out": false,
         "core-training": false,
         "jump-rope": false,
-        "strech": false,
+        "strech": true,
         "qiita": false,
         "hatena": false
     },
@@ -16,6 +16,6 @@
         "total": 8
     },
     "comment": {
-        "summary": "思っていることは皆同じらしい。"
+        "summary": "思ったより足が痛い。ここ踏ん張りどころ。"
     }
 }
