@@ -1,0 +1,21 @@
+{
+    "date": "2019-11-01",
+    "dow": "Fri",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": false,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 8,
+        "total": 8
+    },
+    "comment": {
+        "summary": "徐々に快適な作業環境になりつある。"
+    }
+}
