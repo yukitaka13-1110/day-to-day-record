@@ -1,0 +1,21 @@
+{
+    "date": "2019-11-09",
+    "dow": "Sat",
+    "status": {
+        "basket": true,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": false,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 8,
+        "total": 8
+    },
+    "comment": {
+        "summary": "大学生ってかなり貴重だなと思った。土バスはやっぱり落ち着く。"
+    }
+}
