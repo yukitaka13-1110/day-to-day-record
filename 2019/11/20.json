@@ -1,0 +1,21 @@
+{
+    "date": "2019-11-20",
+    "dow": "Wed",
+    "status": {
+        "basket": false,
+        "work-out": false,
+        "core-training": false,
+        "jump-rope": false,
+        "strech": false,
+        "qiita": false,
+        "hatena": false
+    },
+    "assessment": {
+        "time-management": 8,
+        "fulfillment": 9,
+        "total": 8
+    },
+    "comment": {
+        "summary": "ここまで価値観を揺さぶられたのは初めてかもしれない。時間をとって考える必要がある。"
+    }
+}
